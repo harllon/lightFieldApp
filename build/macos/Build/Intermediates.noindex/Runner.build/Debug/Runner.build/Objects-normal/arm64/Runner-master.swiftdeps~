@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e53bd24082695d1e19b4a36c681aeb8d0c5dd2e79b70acd46e59f3bc1a508c91"
+build_start_time: [1678836822, 785429000]
+build_end_time: [1678836822, 896842002]
+inputs:
+  "/Users/harllonpaz/Workspace/LightFieldApp/light_field_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1678836797, 579480171]
+  "/Users/harllonpaz/Workspace/LightFieldApp/light_field_app/macos/Runner/AppDelegate.swift": !private [1678307504, 0]
+  "/Users/harllonpaz/Workspace/LightFieldApp/light_field_app/macos/Runner/MainFlutterWindow.swift": !private [1678307504, 0]
